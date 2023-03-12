@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum est a nibh malesuada, id lobortis ipsum maximus. Ut sit amet quam sit amet elit pretium consectetur id id enim.",
+      "price": 499,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 2.5
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Pellentesque eu orci ut mi euismod dapibus. Curabitur scelerisque malesuada dolor, eget facilisis magna sagittis a.",
+      "price": 899,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Nulla facilisi. Fusce molestie vel odio sit amet luctus. Donec ultricies tristique neque, a pulvinar lacus. Mauris finibus neque vel quam euismod placerat.",
+      "price": 1499,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 3.5
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "Mauris a justo nec odio posuere finibus. In eu enim faucibus, laoreet sapien vel, pretium enim. Vestibulum vel nisi id odio varius feugiat eu sit amet sapien.",
+      "price": 799,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "description": "Aliquam id mi in nisl dapibus tempus eget eget ipsum. Proin blandit, nibh id vehicula fringilla, enim felis congue turpis, ac interdum libero nisl vel quam.",
+      "price": 1299,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 2
+    }
+    ,
+    {
+      "id": 6,
+      "title": "Product 6",
+      "description": "Aliquam id mi in nisl dapibus tempus eget eget ipsum. Proin blandit, nibh id vehicula fringilla, enim felis congue turpis, ac interdum libero nisl vel quam.",
+      "price": 1299,
+      "image": "https://tecdn.b-cdn.net/img/new/standard/nature/184.jpg",
+      "rating": 2
+    }
+]
